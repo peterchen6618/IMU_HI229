@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "stdio.h": "c",
+        "packet.h": "c",
+        "imu_data_decode.h": "c"
+    }
+}
