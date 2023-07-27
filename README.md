@@ -19,8 +19,8 @@
 
 | STM32 | HI229 Pin |
 | ----- | --------- |
-| TXD   | RXD       |
-| RXD   | TXD       |
+| PA2   | RXD       |
+| PA3   | TXD       |
 
 ### Usage example 使用示例
 本專案撰寫了HI229的API函數如下:
